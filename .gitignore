@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+.idea
+*.iml
+.terraform*
+*.tfstate*
+bin/
+tmp/
+
